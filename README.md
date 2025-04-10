@@ -7,6 +7,6 @@ This document describes the flags that control the checkout flow.
 - **ON**: Address fields are empty
 - **OFF**: Address is auto-filled from user profile
 
-## Last Updated
+## Lastest Updated
 
 2025-04-08
