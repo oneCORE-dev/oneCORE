@@ -1,0 +1,5 @@
+## Key
+
+-	Price is price per unit after discount. [Reference](https://app.asana.com/1/51319381400365/project/1208814360283912/task/1209794755024981?focus=true)
+-	Fullprice is price per unit before discount. [Reference](https://app.asana.com/1/51319381400365/project/1208814360283912/task/1209794755024981?focus=true)
+-	Totalprice is price per unit after discount multiplied with product amount [Reference](https://app.asana.com/1/51319381400365/project/1208814360283912/task/1209794755024981?focus=true)
